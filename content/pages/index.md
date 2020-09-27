@@ -37,6 +37,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/IMG-20160413-WA0012-min.jpg
       - title: Cool Feature of Your Services
         image: images/feature3.png
         content: >-
