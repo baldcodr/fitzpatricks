@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Our Partners
 subtitle: lorem-ipsum
 layout: page
 ---
