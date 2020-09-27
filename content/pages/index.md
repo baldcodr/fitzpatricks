@@ -38,7 +38,7 @@ sections:
           - label: Learn More
             url: /features
         image: images/IMG-20160413-WA0012-min.jpg
-      - title: Cool Feature of Your Services
+      - title: Marine Construction
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
