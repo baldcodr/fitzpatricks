@@ -58,7 +58,6 @@ sections:
         actions:
           - label: Learn More
             url: /features
-        image: images/WP_20170321_15_58_52_Pro.jpg
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
