@@ -20,7 +20,8 @@
             },
             {
                 "label": "Contact Us",
-                "url": "/contact"
+                "url": "/contact",
+                "primary": true
             },
             {
                 "label": "Sign Up",
