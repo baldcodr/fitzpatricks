@@ -24,10 +24,10 @@ sections:
         image: images/neat-eggplant.jpg
         content: |-
           We have the requisite competency to provide
-          a. Detailed description of proposed dredging location.
-          b. Environmental Impact Analysis Report.
-          c. Hydrographic Survey.
-          d. Bathymetric Survey of the proposed location.
+          *  Detailed description of proposed dredging location.
+          *  Environmental Impact Analysis Report.
+          *  Hydrographic Survey.
+          *  Bathymetric Survey of the proposed location.
         actions:
           - label: Learn More
             url: /features
