@@ -48,10 +48,13 @@ sections:
             url: /features
         image: images/IMG-20160413-WA0012-min.jpg
       - title: Marine Construction
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: |-
+          Fitzpatrick’s Limited is optimized to provide cutting edge marine
+          construction services for the Lagos and Niger Delta area of Nigeria.
+          The ramped up demand for such services as shoreline protection,
+          Dock Installation, Seawall Installation, Shoreline Stabilization and
+          ancillary support services provides an exciting opportunity for the
+          highly under served Nigerian market .
         actions:
           - label: Learn More
             url: /features
