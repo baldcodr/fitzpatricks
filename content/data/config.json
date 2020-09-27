@@ -11,10 +11,6 @@
                 "url": "/"
             },
             {
-                "label": "About Us",
-                "url": "/about"
-            },
-            {
                 "label": "What We Do",
                 "url": "/services"
             },
@@ -34,6 +30,10 @@
                 "primary": false,
                 "new_window": true,
                 "type": "action"
+            },
+            {
+                "label": "About Us",
+                "url": "/about"
             }
         ],
         "logo_img": "images/fitzpatricks-logo.png"
