@@ -22,10 +22,12 @@ sections:
     features:
       - title: Land Reclamation
         image: images/neat-eggplant.jpg
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: |-
+          We have the requisite competency to provide
+          a. Detailed description of proposed dredging location.
+          b. Environmental Impact Analysis Report.
+          c. Hydrographic Survey.
+          d. Bathymetric Survey of the proposed location.
         actions:
           - label: Learn More
             url: /features
