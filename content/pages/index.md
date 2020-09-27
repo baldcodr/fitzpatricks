@@ -11,6 +11,7 @@ sections:
       - label: Learn More
         url: /features
         primary: true
+    image: images/dredger-1024x768.jpg
   - section_id: features
     type: section_features
     background: gray
