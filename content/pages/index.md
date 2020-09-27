@@ -33,9 +33,16 @@ sections:
             url: /features
       - title: Dredging Works
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          We are a one stop vehicle for distinct projects that leverage on the
+          company’s heritage of more than 25 years of dredging experience.
+
+          This heritage includes various dredging and reclamation projects
+
+          from start to finish: capital dredging and maintenance works in
+
+          Koko Shore protection project, wetland sand-filling in various
+
+          environmental conditions
         actions:
           - label: Learn More
             url: /features
