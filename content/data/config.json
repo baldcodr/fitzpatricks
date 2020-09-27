@@ -30,7 +30,7 @@
             },
             {
                 "label": "Partners",
-                "url": "lorem-ipsum",
+                "url": "partners",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
