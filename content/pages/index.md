@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/10154233547654282-min.jpg
     title: This Is A Big Hero Headline
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
