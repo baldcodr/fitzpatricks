@@ -46,6 +46,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/WP_20170321_15_58_52_Pro.jpg
   - section_id: reviews
     type: section_reviews
     background: white
