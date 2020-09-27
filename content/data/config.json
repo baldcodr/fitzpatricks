@@ -21,7 +21,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "primary": true
+                "primary": false
             },
             {
                 "label": "Sign Up",
