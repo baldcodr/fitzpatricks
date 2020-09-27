@@ -20,7 +20,7 @@ sections:
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
     features:
-      - title: The Best Feature of Your Services
+      - title: Land Reclamation
         image: images/neat-eggplant.jpg
         content: >-
           Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
