@@ -5,8 +5,8 @@ sections:
     type: section_hero
     title: Who We Are
     content: >-
-      is a is a one stop vehicle for distinct projects that leverage on the
-      company’s heritage of more than 25 years of dredging experience.
+      a one stop vehicle for distinct projects that leverage on the company’s
+      heritage of more than 25 years of dredging experience.
     actions:
       - label: Learn More
         url: /features
