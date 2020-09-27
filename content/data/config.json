@@ -31,7 +31,6 @@
         "logo_img": "images/fitzpatricks-logo.png"
     },
     "footer": {
-        "logo_img": "images/logo_alt.png",
         "tagline": "SaaS theme by Stackbit",
         "has_nav": true,
         "nav_title": "Company",
