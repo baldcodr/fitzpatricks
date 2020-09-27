@@ -1,6 +1,6 @@
 ---
 title: Our Partners
-subtitle: 'We are '
+subtitle: 'We are happy to be associated with these amazing brands who have '
 layout: page
 ---
 ## Lorem ipsum
