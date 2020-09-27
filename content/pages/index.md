@@ -21,7 +21,6 @@ sections:
       quis lorem malesuada luctus.
     features:
       - title: Land Reclamation
-        image: images/neat-eggplant.jpg
         content: |-
           We have the requisite competency to provide
           *  Detailed description of proposed dredging location.
