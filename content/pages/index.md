@@ -46,6 +46,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/WP_20170321_16_00_02_Pro.jpg
       - title: Marine Construction
         content: |-
           Fitzpatrick’s Limited is optimized to provide cutting edge marine
