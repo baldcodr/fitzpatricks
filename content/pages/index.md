@@ -5,9 +5,8 @@ sections:
     type: section_hero
     title: This Is A Big Hero Headline
     content: >-
-      Fitzpatricks Limited is a is a one stop vehicle for distinct projects that
-      leverage on the company’s heritage of more than 25 years of dredging
-      experience.
+      is a is a one stop vehicle for distinct projects that leverage on the
+      company’s heritage of more than 25 years of dredging experience.
     actions:
       - label: Learn More
         url: /features
