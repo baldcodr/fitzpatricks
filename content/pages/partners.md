@@ -1,6 +1,6 @@
 ---
 title: Our Partners
-subtitle: lorem-ipsum
+subtitle: 'We are '
 layout: page
 ---
 ## Lorem ipsum
