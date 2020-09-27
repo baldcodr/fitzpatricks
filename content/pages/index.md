@@ -30,6 +30,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
+        image: images/land-reclaiming.jpg
       - title: Dredging Works
         content: >-
           We are a one stop vehicle for distinct projects that leverage on the
