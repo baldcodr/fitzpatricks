@@ -5,8 +5,9 @@ sections:
     type: section_hero
     title: This Is A Big Hero Headline
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Fitzpatricks Limited is a is a one stop vehicle for distinct projects that
+      leverage on the company’s heritage of more than 25 years of dredging
+      experience.
     actions:
       - label: Learn More
         url: /features
