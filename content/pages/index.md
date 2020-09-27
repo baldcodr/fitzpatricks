@@ -29,7 +29,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-      - title: Dredging Consultancy
+      - title: Dredging Works
         content: >-
           Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
