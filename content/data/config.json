@@ -24,7 +24,7 @@
                 "primary": false
             },
             {
-                "label": "Sign Up",
+                "label": "Blog Posts",
                 "url": "/signup",
                 "primary": true
             }
