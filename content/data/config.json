@@ -15,11 +15,6 @@
                 "url": "/services"
             },
             {
-                "label": "Contact Us",
-                "url": "/contact",
-                "primary": false
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "primary": false
@@ -34,6 +29,11 @@
             {
                 "label": "About Us",
                 "url": "/about"
+            },
+            {
+                "label": "Contact Us",
+                "url": "/contact",
+                "primary": false
             }
         ],
         "logo_img": "images/fitzpatricks-logo.png"
