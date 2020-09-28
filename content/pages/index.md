@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Learn More
         url: /features
-        primary: true
+        primary: false
     image: images/dredger-1024x768.jpg
   - section_id: features
     type: section_features
