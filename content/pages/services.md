@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Whatr
 subtitle: lorem-ipsum
 layout: page
 ---
