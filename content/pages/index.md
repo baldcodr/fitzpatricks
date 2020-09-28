@@ -69,7 +69,7 @@ sections:
         primary: true
   - section_id: recent-posts
     type: section_posts
-    background: gray
+    background: white
     title: Latest Posts
 layout: landing
 ---
