@@ -33,7 +33,7 @@
             {
                 "label": "Contact Us",
                 "url": "/contact",
-                "primary": false
+                "primary": true
             }
         ],
         "logo_img": "images/fitzpatricks-logo.png"
