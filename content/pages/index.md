@@ -18,8 +18,7 @@ sections:
     title: What We Do
     subtitle: >-
       Confident of our ability and competency, implicitly believing our
-      integrity,at enable us to truly claim multiple competencies on a single
-      platform.
+      integrity
     features:
       - title: Land Reclamation
         content: |-
