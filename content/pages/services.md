@@ -1,5 +1,5 @@
 ---
-title: Whatr
+title: What We Do
 subtitle: lorem-ipsum
 layout: page
 ---
