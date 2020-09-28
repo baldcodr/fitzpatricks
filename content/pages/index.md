@@ -84,7 +84,12 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
+        type: action
     type: section_hero
 layout: landing
 ---
