@@ -17,8 +17,10 @@ sections:
     background: gray
     title: What We Do
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Confident of our ability and competency, implicitly believing our
+      integrity, our firm is an omnibus company that has broad affiliations with
+      multiple companies that enable us to truly claim multiple competencies on
+      a single platform.
     features:
       - title: Land Reclamation
         content: |-
