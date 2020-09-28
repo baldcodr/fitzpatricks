@@ -11,6 +11,11 @@ sections:
       - label: Learn More
         url: /features
         primary: true
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        primary: false
+        new_window: true
+        type: action
     image: images/dredger-1024x768.jpg
   - section_id: features
     type: section_features
