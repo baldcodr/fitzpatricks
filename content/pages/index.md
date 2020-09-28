@@ -18,9 +18,8 @@ sections:
     title: What We Do
     subtitle: >-
       Confident of our ability and competency, implicitly believing our
-      integrity, our firm is an omnibus company that has broad affiliations with
-      multiple companies that enable us to truly claim multiple competencies on
-      a single platform.
+      integrity,at enable us to truly claim multiple competencies on a single
+      platform.
     features:
       - title: Land Reclamation
         content: |-
