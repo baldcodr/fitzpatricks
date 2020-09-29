@@ -1,6 +1,6 @@
 ---
 title: What We Do
-subtitle: lorem-ipsum
+subtitle: ''
 layout: page
 ---
 Fitzpatrick’s Limited is a is a one stop vehicle for distinct projects
