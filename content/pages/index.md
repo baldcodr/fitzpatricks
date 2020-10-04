@@ -67,9 +67,5 @@ sections:
       - label: Get Started
         url: /signup
         primary: true
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 layout: landing
 ---
