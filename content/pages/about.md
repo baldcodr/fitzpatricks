@@ -1,5 +1,5 @@
 ---
-title: 'Why We '
+title: Why We Exist
 subtitle: ''
 layout: page
 image: images/dredging.jpg
