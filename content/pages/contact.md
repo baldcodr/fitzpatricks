@@ -3,7 +3,7 @@ title: Contact
 sections:
   - section_id: contact
     type: section_contact
-    background: gray
+    background: white
     title: Contact
     content: >-
       Complete control over our product and services offerings allows us to
