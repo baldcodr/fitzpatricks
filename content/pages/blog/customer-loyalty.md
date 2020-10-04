@@ -3,7 +3,6 @@ title: Customer Loyalty Programs That Stick
 subtitle: A story about customer loyalty
 excerpt: ''
 date: '2019-04-23'
-thumb_image: images/3_thumb.jpg
 image: images/3.jpg
 layout: post
 ---
