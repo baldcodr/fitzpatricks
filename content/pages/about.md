@@ -2,6 +2,7 @@
 title: About Us
 subtitle: ''
 layout: page
+image: images/dredging.jpg
 ---
 ###### Our Philosophy
 >Whenever we come together with a client on any business, we see ourselves as entering
