@@ -2,9 +2,7 @@
 title: Customer Loyalty Programs That Stick
 subtitle: A story about customer loyalty
 author: content/data/authors/jane-doe.yaml
-excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+excerpt: ''
 date: '2019-04-23'
 thumb_image: images/3_thumb.jpg
 image: images/3.jpg
