@@ -1,5 +1,5 @@
 ---
-title: 'Why '
+title: 'Why We '
 subtitle: ''
 layout: page
 image: images/dredging.jpg
