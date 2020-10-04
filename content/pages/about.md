@@ -1,5 +1,5 @@
 ---
-title: About Us
+title: 'Why '
 subtitle: ''
 layout: page
 image: images/dredging.jpg
