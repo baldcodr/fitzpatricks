@@ -6,8 +6,8 @@ sections:
     background: gray
     title: Contact
     content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+      Complete control over our product and services offerings allows us to
+      ensure our customers receive the best quality prices and service. We take
+      great pride in everything that we do at FitzPatricks.
 layout: landing
 ---
