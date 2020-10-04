@@ -28,7 +28,8 @@ operations, they include:
 **PERFORMANCE:** <br/>
 It’s simple: we take every one of our work seriously; we consider this as
 our reason for being, to the extent that it is … do it all or not it at all !
-**SERVICE: (CLIENTS SATISFACTION):** <br/>
+
+**SERVICE: (CLIENTS SATISFACTION):** 
 We are relentless in our efforts and disposition
 towards all our clients (irrespective of class), willingly going the extra mile where
 necessary, to satisfy and exceed their expectations!
