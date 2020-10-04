@@ -12,4 +12,4 @@ dredging experience.
 > people, facilities and machinery and prides itself as possessing a
 > treasured human capacity base at its disposal with well over 300
 > cumulative dredging experience.
-> We are on a sustainable quest for new opportunities and solutions
+> We are on a sustainable quest for new opportunities and solutions.
