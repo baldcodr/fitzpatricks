@@ -11,11 +11,11 @@ Fitzpatrick’s Limited is a one stop vehicle for distinct projects that leverag
 We have a mission to deliver reputable performance, service, quality, integrity and sustainable partnerships with every person or business that we encounter along our way. We are poised to habitually add colour and value to all classes of clients
 (government, private, individual or corporations) that we are privileged to offer our service.
 
-We abide by our core values of …
-✓ Performance
-✓ Service
-✓ Quality
-✓ Integrity
+We abide by our core values of …<br/>
+✓ Performance<br/>
+✓ Service<br/>
+✓ Quality<br/>
+✓ Integrity<br/>
 ✓ Sustainable Relationship
 
 Our core staff, associates and partners are carefully selected to radiate our cherished ethos while exhibiting a keen sense of gamesmanship where honour is the currency. Fitzpatrick’s Limited boasts of thorough bred professionals who are leaders in their respective spheres of competence.
