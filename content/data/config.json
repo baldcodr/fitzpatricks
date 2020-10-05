@@ -1,7 +1,7 @@
 {
     "title": "Fitzpatricks",
     "path_prefix": "/",
-    "palette": "orange",
+    "palette": "blue",
     "header": {
         "title": "Fitzpatricks",
         "has_nav": true,
