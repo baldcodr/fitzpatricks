@@ -1,6 +1,6 @@
 ---
 title: Why We Exist
-subtitle: lorem-ipsum
+subtitle: Our core
 layout: page
 ---
 ## Lorem ipsum
