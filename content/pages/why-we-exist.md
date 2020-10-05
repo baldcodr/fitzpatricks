@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Why We E
 subtitle: lorem-ipsum
 layout: page
 ---
