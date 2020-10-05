@@ -2,6 +2,7 @@
 title: What We Do
 subtitle: "\tA reliable firm in Dredging Works, Land Reclamation, Dredging Consultancy, Marine Construction, Sand Stockpiling, and Equipment Deployment services in Nigeria."
 layout: page
+image: images/caring-aspen.jpg
 ---
 ##### DREDGING WORKS
 <p>Fitzpatrick’s Limited is a is a one stop vehicle for distinct projects that leverage on the company’s heritage of more than 25 years of dredging experience. This heritage includes various dredging and reclamation projects from start to finish: capital dredging and maintenance works in Koko Shore protection project, wetland sand-filling in various environmental conditions.
