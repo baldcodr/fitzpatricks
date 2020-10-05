@@ -58,7 +58,7 @@ sections:
         actions:
           - label: Learn More
             url: /features
-        image: images/land-reclaim.jpg
+        image: images/man.png
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
