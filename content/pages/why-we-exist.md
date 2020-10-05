@@ -16,12 +16,13 @@ It’s simple: we take every one of our work seriously; we consider this as our 
 
 **SUSTAINABLE RELATIONSHIP:** Building strong partnerships through the maintenance of healthy lasting relationship with all that we do business with, is our major concern. This underpins our every interaction.
 
+---
 
 **Our Philosophy**
 > Whenever we come together with a client on any business, we see ourselves as entering into a relationship; a relationship that we consider both binding in nature and sacred in expectation. We view and accept our end of the transaction as the promise of a vow, one that we commit to so resolutely and even undertake to always deliver to.
 
 **Our Mission**
-> To consistently seek and deliver credibly on our businesses through best global practices and be known for Performance, Service, Quality and Integrity coming second to none among our competition.
+> ![our mission](/assets/images/mission.png "our mission")To consistently seek and deliver credibly on our businesses through best global practices and be known for Performance, Service, Quality and Integrity coming second to none among our competition.
 
 **Our Vision**
-> To standout in performance as a brand name in all our business endeavours, building sustainable businesses and relationships that would ripple wide through the waters of time.
+> ![our vision](/assets/images/vision.png "our vision")To standout in performance as a brand name in all our business endeavours, building sustainable businesses and relationships that would ripple wide through the waters of time.
