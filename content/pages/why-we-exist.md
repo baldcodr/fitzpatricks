@@ -1,5 +1,5 @@
 ---
-title: Why We E
+title: Why We Exist
 subtitle: lorem-ipsum
 layout: page
 ---
