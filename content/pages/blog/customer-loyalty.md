@@ -1,7 +1,9 @@
 ---
 title: What is dredging?
 subtitle: All you need to know about dredging
-excerpt: ''
+excerpt: >-
+  Dredging is the removal of sediments and debris from the bottom of lakes,
+  rivers, harbors, and other water bodies. 
 date: '2019-04-23'
 layout: post
 thumb_image: images/pink-jupiter.jpg
