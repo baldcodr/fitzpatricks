@@ -1,5 +1,5 @@
 ---
-title: about
+title: about us
 subtitle: ''
 layout: page
 image: images/dredging.jpg
