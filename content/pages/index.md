@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Learn More
         url: /about
-        primary: false
+        primary: true
     image: images/land.jpg
   - section_id: features
     type: section_features
