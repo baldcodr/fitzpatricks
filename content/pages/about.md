@@ -1,5 +1,5 @@
 ---
-title: Why We Exist
+title: about
 subtitle: ''
 layout: page
 image: images/dredging.jpg
