@@ -1,6 +1,6 @@
 ---
 title: What is dredging?
-subtitle: A
+subtitle: All you need to know about dredging
 excerpt: ''
 date: '2019-04-23'
 layout: post
