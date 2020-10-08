@@ -1,5 +1,5 @@
 ---
-title: Behind the Scenes - The Design of Azimuth
+title: Why we need to protect our shorelines
 excerpt: >-
   Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
   faucibus purus. Mauris at pharetra risus.
