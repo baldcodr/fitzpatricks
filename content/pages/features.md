@@ -35,7 +35,7 @@ sections:
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
-    subtitle: This is an optional description for the call to action block.
+    subtitle: We are on a sustainable quest for new opportunities and solutions.
     actions:
       - label: Get Started
         url: '#'
