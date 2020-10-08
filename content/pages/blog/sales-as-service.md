@@ -1,5 +1,5 @@
 ---
-title: Dredging C
+title: Dredging Consultancy in Nigeria
 subtitle: A interesting tale about Sales
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
