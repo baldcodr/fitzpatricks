@@ -24,9 +24,9 @@ sections:
       - title: Land Reclamation
         content: |-
           We have the requisite competency to provide;
-          Detailed description of proposed dredging location.
-          Environmental Impact Analysis Report.
-          Hydrographic Survey.
+          Detailed description of proposed dredging location,
+          Environmental Impact Analysis Report,
+          Hydrographic Survey, and
           Bathymetric Survey of the proposed location.
         actions:
           - label: Learn More
