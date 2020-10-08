@@ -26,7 +26,7 @@ sections:
       partners who have been a part of our amazing journey in the past years.
       Get in touch with us to find our more about how we can serve you.
     actions:
-      - label: What We Do
+      - label: Get in touch
         url: /what-we-do
         primary: true
       - label: Our Partners
