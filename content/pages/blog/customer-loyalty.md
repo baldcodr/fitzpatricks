@@ -1,6 +1,6 @@
 ---
 title: What is dredging?
-subtitle: A story about customer loyalty
+subtitle: ''
 excerpt: ''
 date: '2019-04-23'
 layout: post
