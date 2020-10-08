@@ -1,5 +1,5 @@
 ---
-title: WHAT ARE THE BENEFITS OF DREDGING?
+title: What are the benefits of dredging?
 excerpt: >-
   Work at home parent is an entrepreneur who works from home and integrates
   parenting into his or her business activities.
