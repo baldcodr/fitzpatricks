@@ -23,7 +23,7 @@ sections:
     features:
       - title: Land Reclamation
         content: |-
-          We have the requisite competency to provide:
+          We have the requisite competency to provide;
           Detailed description of proposed dredging location.
           Environmental Impact Analysis Report.
           Hydrographic Survey.
