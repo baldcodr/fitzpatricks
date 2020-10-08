@@ -17,7 +17,7 @@ sections:
     background: gray
     title: What We Do
     subtitle: >-
-      We are Confident of our ability and competency, implicitly believing our
+      We are confident of our ability and competency, implicitly believing our
       integrity.
     features:
       - title: Land Reclamation
