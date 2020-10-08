@@ -1,5 +1,5 @@
 ---
-title: 'Dredging and sandstockpiling in Nigeria '
+title: Dredging and sandstockpiling in Nigeria
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
