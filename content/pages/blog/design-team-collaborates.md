@@ -1,5 +1,5 @@
 ---
-title: DREDGING AND SAND STOCK PILING IN NIGERIA
+title: Dre
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
