@@ -9,7 +9,7 @@ sections:
       heritage of more than 25 years of dredging experience.
     actions:
       - label: Learn More
-        url: /features
+        url: /about
         primary: false
     image: images/land.jpg
   - section_id: features
