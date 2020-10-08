@@ -1,5 +1,5 @@
 ---
-title: The megacity b
+title: The megacity built from reclaimed land in Nigeria
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
