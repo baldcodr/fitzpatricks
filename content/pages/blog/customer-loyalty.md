@@ -1,5 +1,5 @@
 ---
-title: Customer Loyalty Programs That Stick
+title: What is dredging?
 subtitle: A story about customer loyalty
 excerpt: ''
 date: '2019-04-23'
