@@ -27,7 +27,7 @@ sections:
       Get in touch with us to find our more about how we can serve you.
     actions:
       - label: Get in touch
-        url: /what-we-do
+        url: /contact
         primary: true
       - label: Our Partners
         url: /partners
