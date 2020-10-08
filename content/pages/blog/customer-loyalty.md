@@ -8,6 +8,7 @@ date: '2019-04-23'
 layout: post
 thumb_image: images/pink-jupiter.jpg
 image: images/land.jpg
+author: content/data/authors/person-g8nefmyfd.json
 ---
 
 **Dredging** Dredging is the removal of sediments and debris from the bottom of lakes, rivers, harbors, and other water bodies. It is a routine necessity in waterways around the world because sedimentation—the natural process of sand and silt washing downstream—gradually fills channels and harbors.
