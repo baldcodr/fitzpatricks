@@ -66,6 +66,6 @@ sections:
     actions:
       - label: Get Started
         url: /services
-        primary: true
+        primary: false
 layout: landing
 ---
