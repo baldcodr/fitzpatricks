@@ -22,7 +22,7 @@ sections:
       sed justo tempor condimentum.
     actions:
       - label: Free Trial
-        url: /signup
+        url: /what-we-do
         primary: true
       - label: View Demo
         url: '#'
