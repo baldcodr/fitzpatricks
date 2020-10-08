@@ -12,13 +12,39 @@ image: images/10.jpg
 layout: post
 author: content/data/authors/jane-doe.yaml
 ---
+A marine vessel fitted with a device(s) to scrap or suck the sediment deposition over sea bed is known as a dredger (The device used for excavation and scraping of the sea bed is called the Dredge).
 
-Curabitur sed consectetur nisi. Integer sit amet commodo massa. Cras posuere justo magna, id placerat ligula vulputate malesuada. Aenean a ipsum quis neque ornare placerat eu eu orci. Nullam feugiat sed ante in euismod. Pellentesque a nibh dolor. Donec ultrices lacus eget orci commodo ultricies. Morbi placerat purus non varius egestas. Ut tempus ligula quis lorem suscipit, sed vulputate dolor placerat. Aliquam ut massa placerat, vehicula erat non, mattis leo. Pellentesque egestas velit sit amet lectus lobortis, sit amet pharetra ipsum porta. Nullam massa nulla, tincidunt vel volutpat vel, commodo id leo. Curabitur id volutpat lacus, sed commodo velit. Quisque facilisis consectetur nisl vitae vulputate. Proin porttitor ipsum ut diam faucibus, scelerisque posuere ex euismod. Aenean posuere bibendum egestas.
+In a more general sense, a ship equipped with excavation tool which is capable of weeding off depositions such as sand, gravel, sediments, etc. from the seabed is referred as dredger ship or more commonly a dredger.
 
-Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur aliquet rhoncus sed, hendrerit vel odio. Etiam pharetra neque vel gravida tincidunt. Etiam consequat commodo elit id eleifend. Nullam eu justo eu odio pretium feugiat. Sed non neque dui. Fusce leo erat, imperdiet quis pulvinar vitae, consequat quis dolor. Curabitur eu quam et odio vehicula auctor convallis nec ipsum. Nam vitae dui sapien. Pellentesque vitae lorem id ipsum lacinia consectetur id a erat. Nulla semper ut erat vel vulputate. Nulla sagittis dui ut dapibus euismod. Phasellus et dui posuere, lobortis erat a, pretium nunc. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie ut tellus in convallis. Cras luctus urna quis velit volutpat, semper venenatis mauris auctor.
+Dredgers are of great importance, as they serve the purpose of ensuring the necessary safe bottom clearance for the safer voyages.
 
-Aenean dui sem, sollicitudin non venenatis eget, gravida rutrum risus. Proin massa leo, convallis id orci at, convallis dignissim mi. Integer et arcu arcu. Sed tristique diam id elit iaculis accumsan. Donec vehicula libero nunc, quis dictum orci pharetra nec. Proin blandit pellentesque sapien et sodales. Phasellus convallis sapien venenatis semper iaculis. Curabitur commodo iaculis mi, nec gravida nunc pellentesque ac. Nullam ac felis est. Donec gravida arcu ipsum, ut pulvinar est scelerisque id. Duis lobortis ante eu ante volutpat, quis pharetra sapien mattis. Sed ex enim, accumsan ut volutpat a, consectetur iaculis urna. Donec tempus enim sed porta euismod.
+The excavation carried out in either shallow or fresh waters with the aim to gather up the sediments located in the bottom to dispose off at another place is called Dredging.
 
-Nam mauris leo, mattis in finibus sit amet, mattis vitae libero. In sed leo purus. Fusce ac suscipit nisl. Vestibulum tristique neque nec lacus finibus porta. In erat libero, pellentesque non sodales quis, mollis a elit. Vestibulum viverra dui ut ornare maximus. Aliquam at odio quis magna convallis euismod.
+The sediments might be gathered for purposes like:
 
-Integer nisi nisi, hendrerit a ultrices ut, facilisis at odio. Suspendisse aliquet sed magna in bibendum. Praesent sit amet tincidunt purus. Cras sollicitudin at ante semper feugiat. Sed sem sem, dignissim id aliquet ac, interdum fringilla ipsum. Proin laoreet metus leo, et tempor felis aliquam at. Cras eget urna vehicula, elementum tellus a, tempor odio. Morbi pretium augue erat, et suscipit metus varius non. Quisque vitae lectus id mi consequat laoreet. Nam non molestie elit. Proin iaculis vel ex non rhoncus. Donec metus velit, blandit quis arcu quis, venenatis sodales velit.
+* making the water navigation or fishing easier in shallow waters
+* for replenishing the sand on public beaches which might have undergone severe coastal erosion
+* Gold and coal mining
+* Removal of contaminants from the sea bed
+* Reclamation of areas damaged by oil spills or natural calamities
+* Creation of new harbours
+
+Broadly the types of dredgers are classified into three categories (On the basis of the method employed for transportation, of dredged material from the bottom of the sea to the surface of the water):
+
+* Mechanical dredgers which are suited for working in confined areas and are useful for removing the hand-packed material or debris,
+		(i) Bucket Dredgers
+		(ii) Bucket Ladder Dredgers
+		(iii) Grab Dredgers
+		(iv) Backhoe Dredgers
+* Hydraulic dredgers which work on the principle of adding large amounts of process water to change the original structure of the sediments, 
+		(i) Suction Dredgers
+		(ii) Trailing Suction Hopper Dredger
+		(iii) Water Injection Dredger
+* Other dredgers which do not fit into the above two categories.
+		(i) Jet-lift dredgers and Air-lift dredgers
+		(ii) Augur suction dredgers
+		(iii) Reclamation Dredger
+		(iv) Pneumatic dredgers
+		(v) Amphibious dredgers
+		(vi) Plough or bed leveler
+
