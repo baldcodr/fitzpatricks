@@ -4,8 +4,8 @@ subtitle: >-
   Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
   aliquet rhoncus sed, hendrerit vel odio.
 excerpt: >-
-  Praesent ut cursus enim, sit amet dictum turpis. Etiam justo orci, consectetur
-  aliquet rhoncus sed, hendrerit vel odio.
+  Dredgers are of great importance, as they serve the purpose of ensuring the
+  necessary safe bottom clearance for the safer voyages.
 date: '2019-03-27'
 thumb_image: images/10_thumb.jpg
 image: images/10.jpg
