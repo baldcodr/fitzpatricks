@@ -1,5 +1,5 @@
 ---
-title: 'Solving the problem on housing deficit '
+title: Solving the problem on housing deficit through reclamation in Nigeria
 subtitle: >-
   Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
   massa primis. 
