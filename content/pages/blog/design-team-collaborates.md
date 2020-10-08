@@ -1,5 +1,5 @@
 ---
-title: Dredging and sand stockpiling in Nigeria
+title: Dredging and Sand stockpiling in Nigeria
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
