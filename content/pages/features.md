@@ -21,7 +21,7 @@ sections:
       Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
       sed justo tempor condimentum.
     actions:
-      - label: Free Trial
+      - label: What We
         url: /what-we-do
         primary: true
       - label: View Demo
