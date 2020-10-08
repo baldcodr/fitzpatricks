@@ -65,7 +65,7 @@ sections:
     subtitle: We are on a sustainable quest for new opportunities and solutions.
     actions:
       - label: Get Started
-        url: /
+        url: /what
         primary: true
 layout: landing
 ---
