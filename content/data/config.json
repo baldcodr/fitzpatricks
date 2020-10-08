@@ -21,7 +21,7 @@
             },
             {
                 "label": "About Us",
-                "url": "partners",
+                "url": "about",
                 "primary": false,
                 "new_window": false,
                 "type": "action"
