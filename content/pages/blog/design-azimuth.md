@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-09'
 thumb_image: images/6_thumb.jpg
-image: images/6.jpg
+image: images/land-reclaiming.jpg
 layout: post
 ---
 
