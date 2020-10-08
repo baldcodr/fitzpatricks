@@ -1,5 +1,5 @@
 ---
-title: Land Reclamation bnefits in Nigeria
+title: Land Reclamation benefits in Nigeria
 subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
 author: content/data/authors/john-doe.yaml
 excerpt: >-
