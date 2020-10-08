@@ -1,5 +1,5 @@
 ---
-title: How Our Design Team Collaborates
+title: How Our Design Team CollaboratesDREDGING AND SAND STOCK PILING IN NIGERIA
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
