@@ -6,20 +6,25 @@ sections:
     background: gray
     title: The Best Features of Your Services
     content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
+      We have over 25 years experience in delivering top quality services in;
+
+      * Dredging Works 
+
+      * Land Reclamation 
+
+      * Dredging Consultancy 
+
+      * Marine Construction 
+
+      * Sand Stockpiling, and 
+
+      * Equipment Deployment services. 
 
 
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
+      We are also relentless in making sure our clients are satisfied with the
+      quality of our services. This has earned us the trust of several reputable
+      partners who have been a part of our amazing journey in the past years.
+      Get in touch with us to find our more about how we can serve you.
     actions:
       - label: What We Do
         url: /what-we-do
