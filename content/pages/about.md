@@ -1,6 +1,9 @@
 ---
 title: About us
-subtitle: ''
+subtitle: >-
+  A reliable firm in Dredging Works, Land Reclamation, Dredging Consultancy,
+  Marine Construction, Sand Stockpiling, and Equipment Deployment services in
+  Nigeria.
 layout: page
 image: images/dredging.jpg
 ---
