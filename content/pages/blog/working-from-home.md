@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2019-04-22'
 thumb_image: images/9_thumb.jpg
-image: images/9.jpg
+image: images/dredging.jpg
 layout: post
 ---
 Dredging provides numerous benefits for shipping, construction, and other projects.  The advantages of dredging are:
