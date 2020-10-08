@@ -11,6 +11,10 @@
                 "url": "/"
             },
             {
+                "label": "Why We Exist",
+                "url": "/why-we-exist"
+            },
+            {
                 "label": "What We Do",
                 "url": "/services"
             },
@@ -25,10 +29,6 @@
                 "primary": false,
                 "new_window": false,
                 "type": "action"
-            },
-            {
-                "label": "Why We Exist",
-                "url": "/why-we-exist"
             },
             {
                 "label": "Contact Us",
