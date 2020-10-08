@@ -1,8 +1,8 @@
 ---
 title: Dredging and Sand stockpiling in Nigeria
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  The ever increasing deficit in housing supply in Nigeria which is estimated at
+  over sixteen million {16,000,000} units.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
 thumb_image: images/IMG-20160929-WA0008-min.jpg
