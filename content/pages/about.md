@@ -1,8 +1,9 @@
 ---
 title: About us
 subtitle: >-
-  We specili in Dredging Works, Land Reclamation, Dredging Consultancy, Marine
-  Construction, Sand Stockpiling, and Equipment Deployment services in Nigeria.
+  We specialize in Dredging Works, Land Reclamation, Dredging Consultancy,
+  Marine Construction, Sand Stockpiling, and Equipment Deployment services in
+  Nigeria.
 layout: page
 image: images/dredging.jpg
 ---
