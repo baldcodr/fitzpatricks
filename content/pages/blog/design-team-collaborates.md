@@ -6,7 +6,7 @@ excerpt: >-
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-24'
 thumb_image: images/11_thumb.jpg
-image: images/11.jpg
+image: images/IMG-20160929-WA0008-min.jpg
 layout: post
 ---
 It is widely agreed that one of the most basic needs of man is shelter and in time past man has experienced with different material in order to meet with his housing needs. In modern day history, the use of cement along with sand and gravel as come to be accepted as one of the best construction raw material because they provide durability, firmness and can withstand harsh weather conditions though other materials like steel and glass are also used.
