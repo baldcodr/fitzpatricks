@@ -26,7 +26,7 @@ sections:
         primary: true
       - label: View Demo
         url: '#'
-    image: images/10154233547654282-min.jpg
+    image: images/neat-eggplant.jpg
   - section_id: call-to-action
     type: section_cta
     title: This Is Call to Action Block!
