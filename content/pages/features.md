@@ -25,7 +25,7 @@ sections:
         url: /what-we-do
         primary: true
       - label: Our Partners
-        url: '#'
+        url: /partners
     image: images/neat-eggplant.jpg
   - section_id: call-to-action
     type: section_cta
