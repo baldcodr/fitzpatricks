@@ -58,7 +58,7 @@ sections:
           highly under served Nigerian market .
         actions:
           - label: Learn More
-            url: /features
+            url: /services
         image: images/man1.png
   - section_id: call-to-action
     type: section_cta
