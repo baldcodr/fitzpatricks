@@ -4,8 +4,6 @@ subtitle: ''
 layout: page
 image: images/page-banner.png
 ---
-Fitzpatrick’s Limited is guided by some fundamental values, integral to its business operations, they include:
-
 **PERFORMANCE:**
 It’s simple: we take every one of our work seriously; we consider this as our reason for being, to the extent that it is … do it all or not it at all !
 
