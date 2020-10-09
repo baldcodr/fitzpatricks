@@ -17,7 +17,7 @@ It’s simple: we take every one of our work seriously; we consider this as our 
 
 ---
 
-**Our Philosophy** <img src="fitzpatricks.netlify.app/images/philosophy.png" alt="vision statement" width="80"/>
+**Our Philosophy** <img src="https://fitzpatricks.netlify.app/images/philosophy.png" alt="vision statement" width="80"/>
 > Whenever we come together with a client on any business, we see ourselves as entering into a relationship; a relationship that we consider both binding in nature and sacred in expectation. We view and accept our end of the transaction as the promise of a vow, one that we commit to so resolutely and even undertake to always deliver to.
 
  **Our Mission** <img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="80"/>
