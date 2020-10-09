@@ -17,7 +17,7 @@ sections:
     background: white
     actions: []
     type: section_content
-    image: images/Screenshot (11).png
+    image: images/Screenshot (13).png
   - section_id: contact
     type: section_contact
     background: gray
