@@ -47,7 +47,6 @@ sections:
         actions:
           - label: Learn More
             url: /what-we-do
-        image: images/gear.png
       - title: Marine Construction
         content: |-
           Fitzpatrick’s Limited is optimized to provide cutting edge marine
