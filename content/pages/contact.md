@@ -9,7 +9,7 @@ sections:
       Complete control over our product and services offerings allows us to
       ensure our customers receive the best quality prices and service. We take
       great pride in everything that we do at FitzPatricks.
-  - title: Contac
+  - title: Contact details
     section_id: address
     content: |-
       **Address**
