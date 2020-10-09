@@ -31,7 +31,7 @@ sections:
         primary: true
       - label: Our Partners
         url: /partners
-    image: images/neat-eggplant.jpg
+    image: images/fierce-wallaby.jpg
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
