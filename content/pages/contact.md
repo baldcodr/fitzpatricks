@@ -10,7 +10,7 @@ sections:
       ensure our customers receive the best quality prices and service. We take
       great pride in everything that we do at FitzPatricks.
   - title: Contact details
-    section_id: contact
+    section_id: contact-details
     content: |-
       **Address**
       Caribbean Lake City, Opposite
