@@ -2,7 +2,7 @@
 title: Contact
 sections:
   - title: lorem-ipsum
-    section_id: lorem-ipsum
+    section_id: contact-header
     content: ''
     actions: []
     type: section_hero
