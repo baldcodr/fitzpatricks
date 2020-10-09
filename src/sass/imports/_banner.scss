@@ -1,14 +1,14 @@
 body.has-theme-bar {
   #page {
-    top: 60px;
-    padding-top: 60px;
+    top: 20px;
+    padding-top: 20px;
     @media only screen and (max-width: 801px) {
-      top: 60px;
-      padding-top: 0;
+      top: 20px;
+      padding-top: 20px;
     }
     .site-header {
       @media only screen and (min-width: 801px) {
-        top: 60px;
+        top: 20px;
       }
     }
   }
