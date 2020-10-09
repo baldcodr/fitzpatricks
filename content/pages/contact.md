@@ -1,12 +1,6 @@
 ---
 title: Contact
 sections:
-  - title: ''
-    section_id: contact-header
-    content: ''
-    actions: []
-    type: section_hero
-    image: images/contact.png
   - section_id: contact
     type: section_contact
     background: gray
