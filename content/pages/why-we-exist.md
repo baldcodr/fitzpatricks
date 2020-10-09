@@ -2,7 +2,7 @@
 title: Why We Exist
 subtitle: ''
 layout: page
-image: images/page-banner.png
+image: images/unique-kangaroo.png
 ---
 **PERFORMANCE:**
 It’s simple: we take every one of our work seriously; we consider this as our reason for being, to the extent that it is … do it all or not it at all !
