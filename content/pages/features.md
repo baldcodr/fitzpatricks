@@ -38,6 +38,6 @@ sections:
     subtitle: We are on a sustainable quest for new opportunities and solutions.
     actions:
       - label: Learn more
-        url: /contact
+        url: /services
 layout: landing
 ---
