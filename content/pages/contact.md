@@ -11,15 +11,17 @@ sections:
       great pride in everything that we do at FitzPatricks.
   - title: Address
     section_id: address
-    content: >-
-      ## Lorem ipsum
+    content: |-
+      **Address**
+      Caribbean Lake City, Opposite
+      Fara-Park Estate, Lekki, Lagos.
 
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+      **Phone**
+      +2348033347051
+      +2348181583228
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      **Email**
+      info@fitzpatricks.ng
     background: white
     actions: []
     type: section_content
