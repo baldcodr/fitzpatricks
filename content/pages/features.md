@@ -37,7 +37,7 @@ sections:
     title: Pushing The Boundaries Of What’s Possible.
     subtitle: We are on a sustainable quest for new opportunities and solutions.
     actions:
-      - label: l
+      - label: Learn more
         url: /contact
 layout: landing
 ---
