@@ -46,7 +46,7 @@ sections:
           environmental conditions
         actions:
           - label: Learn More
-            url: /wervices
+            url: /services
         image: images/gear1.png
       - title: Marine Construction
         content: |-
