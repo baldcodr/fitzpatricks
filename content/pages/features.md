@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    title: The Best Features of Your Services
+    title: We are here for the long game
     content: >-
       We have over 25 years experience in delivering top quality services in;
 
