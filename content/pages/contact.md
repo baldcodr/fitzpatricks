@@ -22,5 +22,6 @@ sections:
       - dolor sit amet
     actions: []
     type: section_hero
+    image: images/contact.png
 layout: landing
 ---
