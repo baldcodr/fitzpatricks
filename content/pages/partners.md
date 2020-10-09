@@ -5,7 +5,7 @@ subtitle: >-
   integral part of our journey so far...
 layout: page
 ---
-<img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/mission.png" alt="mission statement" width="80"/>
+<img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/CAT.png" alt="caterpillar construction company logo" width="80"/>
 <img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/cat.png" alt="mission statement" width="80"/>
 <img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/mission.png" alt="mission statement" width="80"/>
 <img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/mission.png" alt="mission statement" width="80"/>
