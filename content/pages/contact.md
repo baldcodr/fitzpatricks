@@ -20,7 +20,7 @@ sections:
       - Lorem ipsum
 
       - dolor sit amet
-    background: gray
+    background: white
     actions: []
     type: section_content
     image: images/Screenshot (11).png
