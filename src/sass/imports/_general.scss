@@ -11,6 +11,8 @@ html {
 
 body {
   background: _palette(bg);
+  background-image: url(https://preview--fitzpatrick-0d09c.stackbit.dev/images/background-img.png);
+  //background-repeat: no-repeat;
   color: _palette(primary);
   line-height: 1.66667;
   text-rendering: optimizeLegibility;
