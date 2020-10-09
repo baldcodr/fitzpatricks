@@ -1,6 +1,6 @@
 ---
 title: Why We Exist
-subtitle: Our core values
+subtitle: ''
 layout: page
 image: images/page-banner.png
 ---
