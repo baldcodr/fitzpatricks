@@ -30,7 +30,7 @@ sections:
           Bathymetric Survey of the proposed location.
         actions:
           - label: Learn More
-            url: /features
+            url: /services
         image: images/tractor1.png
       - title: Dredging Works
         content: >-
