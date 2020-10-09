@@ -23,5 +23,6 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: images/contact.png
 layout: landing
 ---
