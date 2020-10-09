@@ -2,6 +2,7 @@
 title: Why We Exist
 subtitle: Our core values
 layout: page
+image: images/banner.png
 ---
 Fitzpatrick’s Limited is guided by some fundamental values, integral to its business operations, they include:
 
