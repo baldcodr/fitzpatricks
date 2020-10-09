@@ -6,7 +6,7 @@ sections:
     background: gray
     title: We are tested and trusted in the industry
     content: >-
-      We have over 25 years experience in delivering top quality services in;
+      With over 25 years experience in delivering top quality services in;
 
       * Dredging Works 
 
@@ -21,7 +21,7 @@ sections:
       * Equipment Deployment services. 
 
 
-      We are also relentless in making sure our clients are satisfied with the
+      We remain relentless in making sure our clients are satisfied with the
       quality of our services. This has earned us the trust of several reputable
       partners who have been a part of our amazing journey in the past years.
       Get in touch with us to find our more about how we can serve you.
