@@ -10,7 +10,7 @@ sections:
       ensure our customers receive the best quality prices and service. We take
       great pride in everything that we do at FitzPatricks.
   - title: Address
-    section_id: lorem-ipsum
+    section_id: address
     content: >-
       ## Lorem ipsum
 
