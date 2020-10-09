@@ -9,7 +9,7 @@ sections:
       Fara-Park Estate, Lekki, Lagos.
 
       **Phone**  
-      +2348033347051
+      +2348033347051  
       +2348181583228
 
       **Email**  
