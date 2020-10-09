@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    title: We are here for the long game
+    title: 'We are '
     content: >-
       We have over 25 years experience in delivering top quality services in;
 
