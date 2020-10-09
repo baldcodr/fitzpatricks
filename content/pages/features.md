@@ -4,7 +4,7 @@ sections:
   - section_id: features
     type: section_content
     background: gray
-    title: 'We are '
+    title: We are tested and trusted in the industry
     content: >-
       We have over 25 years experience in delivering top quality services in;
 
