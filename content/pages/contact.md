@@ -1,7 +1,7 @@
 ---
 title: Contact
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: contact-header
     content: ''
     actions: []
