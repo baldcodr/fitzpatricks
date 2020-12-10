@@ -12,7 +12,6 @@ sections:
       - label: Learn More
         url: /about
         primary: true
-    image: images/land.jpg
   - section_id: features
     type: section_features
     background: gray
