@@ -7,7 +7,6 @@ excerpt: >-
 date: '2019-04-23'
 layout: post
 thumb_image: images/pink-jupiter.jpg
-image: images/land.jpg
 author: content/data/authors/person-g8nefmyfd.json
 ---
 
