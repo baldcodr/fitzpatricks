@@ -80,7 +80,7 @@
             },
             {
                 "label": "Facebook",
-                "url": "lorem-ipsum",
+                "url": "https",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
