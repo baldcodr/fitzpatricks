@@ -6,7 +6,7 @@ excerpt: >-
   rivers, harbors, and other water bodies. 
 date: '2019-04-23'
 layout: post
-thumb_image: images/pink-jupiter.jpg
+thumb_image: images/WhatsApp Image 2020-12-09 at 10.28.57 AM (1).jpeg
 author: content/data/authors/person-g8nefmyfd.json
 image: images/WhatsApp Image 2020-12-09 at 10.28.57 AM (1).jpeg
 ---
