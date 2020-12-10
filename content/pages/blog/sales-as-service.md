@@ -6,7 +6,7 @@ excerpt: >-
   purus. 
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
-thumb_image: images/land-reclaiming.jpg
+thumb_image: images/WhatsApp Image 2020-12-09 at 10.29.00 AM.jpeg
 image: images/land-reclaiming.jpg
 layout: post
 ---
