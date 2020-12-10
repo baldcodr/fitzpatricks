@@ -7,7 +7,7 @@ excerpt: >-
   Dredgers are of great importance, as they serve the purpose of ensuring the
   necessary safe bottom clearance for the safer voyages.
 date: '2019-03-27'
-thumb_image: images/dredging-header.jpg
+thumb_image: images/WhatsApp Image 2020-12-09 at 10.28.53 AM (1).jpeg
 image: images/WhatsApp Image 2020-12-09 at 10.28.53 AM (1).jpeg
 layout: post
 author: content/data/authors/jane-doe.yaml
