@@ -77,6 +77,13 @@
                 "label": "Instagram",
                 "url": "https://www.instagram.com/fitzpatricksng",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "lorem-ipsum",
+                "primary": false,
+                "new_window": true,
+                "type": "action"
             }
         ],
         "has_subscribe": true,
