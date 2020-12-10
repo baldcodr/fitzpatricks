@@ -12,6 +12,7 @@ sections:
       - label: Learn More
         url: /about
         primary: true
+    image: images/WhatsApp Image 2020-12-09 at 10.28.55 AM (1).jpeg
   - section_id: features
     type: section_features
     background: gray
