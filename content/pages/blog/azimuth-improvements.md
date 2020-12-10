@@ -8,7 +8,7 @@ excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.
 date: '2017-03-26'
-thumb_image: images/nigeria-eko_atlantic_city_4.jpg
+thumb_image: images/dredging-projects (4).jpeg
 layout: post
 image: images/nigeria-eko_atlantic_city_4.jpg
 ---
