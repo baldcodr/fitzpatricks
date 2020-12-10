@@ -7,7 +7,7 @@ excerpt: >-
   interdum, massa massa tempor ante.
 date: '2018-01-11'
 thumb_image: images/dredging-projects (12).jpeg
-image: images/dredging.jpg
+image: images/terrific-turmeric.jpeg
 layout: post
 ---
 
