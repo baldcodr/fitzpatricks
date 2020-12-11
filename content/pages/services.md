@@ -2,7 +2,7 @@
 title: What We Do
 subtitle: ''
 layout: page
-image: images/IMG-20200416-WA0029.jpg
+image: images/magical-plankton.jpg
 ---
 ##### DREDGING WORKS
 <img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/IMG-20160929-WA0008-min.jpg" alt="mission statement" width="100%"/>
