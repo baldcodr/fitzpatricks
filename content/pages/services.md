@@ -41,7 +41,6 @@ responsible manner that safeguards the environment, creates jobs and career path
 <p>The general terrain of the Lagos and Niger Delta area of Nigeria is largely comprised of wetlands, yet these areas support massive population densities. The direct effect of the above is that sand would be a most sought after commodity for the erection of habitable buildings that would support this population density and its projected exponential growth. It is thus a no-brainer that immense sand stockpiling opportunities
 would exist within our area of activity. Fitzpatrick’s Limited is
 however dedicated to striking a balance between the commercial opportunities and the responsible utilization of these scarce resources. It is thus our over riding interest that we practice and encourage industry players to subscribe to the dictates of genuine environmental safe guards as prescribed by the government.	</p>
-<img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="100"/>
 
 ##### EQUIPMENT DEPLOYMENT
 <img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/thoughtful-iron.jpg" alt="mission statement" width="100%"/>
