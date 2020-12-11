@@ -5,10 +5,11 @@ layout: page
 image: images/dredging-projects (11).jpeg
 ---
 ##### DREDGING WORKS
+<img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/IMG-20160929-WA0008-min.jpg" alt="mission statement" width="100%"/>
 <p>Fitzpatrick’s Limited is a is a one stop vehicle for distinct projects that leverage on the company’s heritage of more than 25 years of dredging experience. This heritage includes various dredging and reclamation projects from start to finish: capital dredging and maintenance works in Koko Shore protection project, wetland sand-filling in various environmental conditions.
 Fitzpatrick’s Limited believes in relentless investment in its own
 people, facilities and machinery and prides itself as possessing a treasured human capacity base at its disposal with well over 300 cumulative dredging experience. We are on a sustainable quest for new opportunities and solutions. Our core staff, associates and partners are carefully.</p>
-<img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/IMG-20160929-WA0008-min.jpg" alt="mission statement" width="100"/>
+
 
 
 ##### LAND RECLAMATION
@@ -46,4 +47,3 @@ however dedicated to striking a balance between the commercial opportunities and
 mobilization and demobilization of dredging equipment to and fro project sites. The need for specialized movement of massive dredging equipment through inland waterways, land or sea for disparate dredge sites is a job that requires extensive high level technical supervision. Fitzpatrick’s Limited has understood the need for this service within its area of focus and is poised to provide a solution that conforms to all known international standards. Our key resource persons, have over the years, evolved the patent awaiting Triple Plan Template (TPT) that takes into consideration the concordant Safety, Efficiency and Goods-in-Transit (GIT) Insurance requirements of any equipment deployment.
 Fitzpatrick’s Limited is guarantees the cost effective and seamless deployment of any equipment to and from any site in line with international best practices.
 	</p>
-	<img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="100%"/>
