@@ -8,7 +8,7 @@ image: images/dredging-projects (11).jpeg
 <p>Fitzpatrick’s Limited is a is a one stop vehicle for distinct projects that leverage on the company’s heritage of more than 25 years of dredging experience. This heritage includes various dredging and reclamation projects from start to finish: capital dredging and maintenance works in Koko Shore protection project, wetland sand-filling in various environmental conditions.
 Fitzpatrick’s Limited believes in relentless investment in its own
 people, facilities and machinery and prides itself as possessing a treasured human capacity base at its disposal with well over 300 cumulative dredging experience. We are on a sustainable quest for new opportunities and solutions. Our core staff, associates and partners are carefully.</p>
-<img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="100"/>
+<img src="https://preview--fitzpatrick-0d09c.stackbit.dev/images/IMG-20160929-WA0008-min.jpg" alt="mission statement" width="100"/>
 
 
 ##### LAND RECLAMATION
