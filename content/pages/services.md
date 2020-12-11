@@ -46,4 +46,4 @@ however dedicated to striking a balance between the commercial opportunities and
 mobilization and demobilization of dredging equipment to and fro project sites. The need for specialized movement of massive dredging equipment through inland waterways, land or sea for disparate dredge sites is a job that requires extensive high level technical supervision. Fitzpatrick’s Limited has understood the need for this service within its area of focus and is poised to provide a solution that conforms to all known international standards. Our key resource persons, have over the years, evolved the patent awaiting Triple Plan Template (TPT) that takes into consideration the concordant Safety, Efficiency and Goods-in-Transit (GIT) Insurance requirements of any equipment deployment.
 Fitzpatrick’s Limited is guarantees the cost effective and seamless deployment of any equipment to and from any site in line with international best practices.
 	</p>
-	<img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="100"/>
+	<img src="https://fitzpatricks.netlify.app/images/mission.png" alt="mission statement" width="100%"/>
