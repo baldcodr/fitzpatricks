@@ -15,7 +15,6 @@ It’s simple: we take every one of our work seriously; we consider this as our 
 
 **SUSTAINABLE RELATIONSHIP:** Building strong partnerships through the maintenance of healthy lasting relationship with all that we do business with, is our major concern. This underpins our every interaction.
 
----
 <img src="https://fitzpatricks.netlify.app/images/unique-kangaroo.png" alt="Fitzpatricks Team" width="100%"/>
 
 **Our Philosophy** <img src="https://fitzpatricks.netlify.app/images/philosophy.png" alt="vision statement" width="100"/>
