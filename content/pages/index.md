@@ -69,7 +69,7 @@ sections:
         url: /contact
         primary: false
   - title: Resources
-    section_id: lorem-ipsum
+    section_id: resources
     subtitle: Industry Insights and Stories
     background: gray
     type: section_posts
