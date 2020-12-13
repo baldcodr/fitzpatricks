@@ -68,5 +68,10 @@ sections:
       - label: Start Now
         url: /contact
         primary: false
+  - title: lorem-ipsum
+    section_id: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
 layout: landing
 ---
