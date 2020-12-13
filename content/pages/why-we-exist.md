@@ -2,7 +2,7 @@
 title: Why We Exist
 subtitle: ''
 layout: page
-image: images/unique-kangaroo.png
+image: images/WhatsApp Image 2020-12-09 at 10.29.00 AM.jpeg
 ---
 **PERFORMANCE:**
 It’s simple: we take every one of our work seriously; we consider this as our reason for being, to the extent that it is … do it all or not it at all !
