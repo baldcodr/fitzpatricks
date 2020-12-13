@@ -26,4 +26,4 @@ It’s simple: we take every one of our work seriously; we consider this as our 
 **Our Vision**   <img src="https://fitzpatricks.netlify.app/images/vision.png" alt="vision statement" width="100"/>
 >To standout in performance as a brand name in all our business endeavours, building sustainable businesses and relationships that would ripple wide through the waters of time.
 
-<img src="https://fitzpatricks.netlify.app/images/WhatsApp%20Image%202020-12-09%20at%2010.29.00%20AM.jpeg" alt="Fitzpatricks Team" width="100"/>
+<img src="https://fitzpatricks.netlify.app/images/WhatsApp%20Image%202020-12-09%20at%2010.29.00%20AM.jpeg" alt="Fitzpatricks Team" width="100%"/>
