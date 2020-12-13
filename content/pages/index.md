@@ -70,7 +70,7 @@ sections:
         primary: false
   - title: Resources
     section_id: lorem-ipsum
-    subtitle: 'Industry '
+    subtitle: Industry Insights and Stories
     background: gray
     type: section_posts
 layout: landing
