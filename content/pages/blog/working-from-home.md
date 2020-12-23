@@ -5,7 +5,7 @@ excerpt: >-
   projects. The advantages of dredging are:
 author: content/data/authors/jane-doe.yaml
 date: '2019-04-22'
-thumb_image: images/WhatsApp Image 2020-12-09 at 10.29.04 AM.jpeg
+thumb_image: images/Wheel-Loader2.jpg
 image: images/Wheel-Loader2.jpg
 layout: post
 ---
