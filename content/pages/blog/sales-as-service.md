@@ -2,8 +2,8 @@
 title: Dredging Consultancy in Nigeria
 subtitle: A interesting tale about Sales
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ut elementum
-  purus. 
+  Dredging technology and hydraulic engineering expertise are the cornerstones
+  of the company, coastal zone management, and environmental services.
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-15'
 thumb_image: images/dregder-loader.jpg
