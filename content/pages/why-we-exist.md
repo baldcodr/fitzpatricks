@@ -15,7 +15,7 @@ It’s simple: we take every one of our work seriously; we consider this as our 
 
 **SUSTAINABLE RELATIONSHIP:** Building strong partnerships through the maintenance of healthy lasting relationship with all that we do business with, is our major concern. This underpins our every interaction.
 
-<img src="https://fitzpatricks.netlify.app/images/unique-kangaroo.png" alt="Fitzpatricks Team" width="100%"/>
+<img src="https://fitzpatricks.netlify.app/images/page-banner.png" alt="Fitzpatricks Team" width="100%"/>
 
 **Our Philosophy** <img src="https://fitzpatricks.netlify.app/images/philosophy.png" alt="vision statement" width="100"/>
 > Whenever we come together with a client on any business, we see ourselves as entering into a relationship; a relationship that we consider both binding in nature and sacred in expectation. We view and accept our end of the transaction as the promise of a vow, one that we commit to so resolutely and even undertake to always deliver to.
