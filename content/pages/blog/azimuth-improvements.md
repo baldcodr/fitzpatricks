@@ -5,8 +5,9 @@ subtitle: >-
   massa primis. 
 author: content/data/authors/john-doe.yaml
 excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+  With an estimated housing deficit of over 17 million units, the foreseeable
+  future of the housing sector in Nigeria presents a grim picture for the
+  faint-hearted
 date: '2017-03-26'
 thumb_image: images/dredging-projects (4).jpeg
 layout: post
