@@ -1,8 +1,8 @@
 ---
 title: Why we need to protect our shorelines
 excerpt: >-
-  Quisque ultrices metus sed libero ultricies condimentum. Suspendisse ut
-  faucibus purus. Mauris at pharetra risus.
+  Shoreline protection is the engineering effort designed to lessen or eliminate
+  coastal erosion.
 author: content/data/authors/jane-doe.yaml
 date: '2018-01-09'
 thumb_image: images/thoughtful-iron.jpg
