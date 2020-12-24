@@ -5,7 +5,7 @@ excerpt: >-
   take advantage of.
 author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
-thumb_image: images/land-reclaim.jpg
+thumb_image: images/boat.png
 layout: post
 image: images/boat.png
 ---
