@@ -5,7 +5,7 @@ subtitle: >-
   Marine Construction, Sand Stockpiling, and Equipment Deployment services in
   Nigeria.
 layout: page
-image: images/about-fitzpatricks.png
+image: images/about-fitzpatricks.jpg
 ---
 Fitzpatrick’s Limited is a wholly indigenous, privately owned enterprise, incorporated in 20th September, 1995, with the Corporate Affairs Commission (CAC) in accordance with the Companies and Allied Maters Act of 1990.
 
