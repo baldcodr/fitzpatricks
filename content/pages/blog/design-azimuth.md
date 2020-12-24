@@ -9,4 +9,6 @@ thumb_image: images/thoughtful-iron.jpg
 image: images/thoughtful-iron.jpg
 layout: post
 ---
-Shoreline protect is critical and serves as a way to reacquire land taken by water bodies...
+Shoreline protection is the engineering effort designed to lessen or eliminate coastal erosion.
+Shoreline protection is critical and serves as a way to reacquire land taken by water bodies also.
+This can be achived by dredging and Fitzpatricks offers such services geared towards protecting our shorelines.
