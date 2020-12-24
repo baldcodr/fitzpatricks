@@ -7,7 +7,7 @@ author: content/data/authors/jane-doe.yaml
 date: '2019-03-10'
 thumb_image: images/land-reclaim.jpg
 layout: post
-image: images/fierce-wallaby.jpg
+image: images/boat.png
 ---
 If you live in a coastal area or are considering purchasing waterfront property, marine construction is something you should take advantage of. Marine construction focuses on anything built along the shoreline. These structures help to prevent damage to the property located near the water.
 
