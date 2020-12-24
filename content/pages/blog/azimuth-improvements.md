@@ -1,8 +1,6 @@
 ---
 title: Solving the problem on housing deficit through land reclamation in Nigeria
-subtitle: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. 
+subtitle: ''
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   With an estimated housing deficit of over 17 million units, the foreseeable
