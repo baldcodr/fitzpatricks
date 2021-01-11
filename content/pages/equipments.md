@@ -1,6 +1,6 @@
 ---
 title: Equipments
-subtitle: lorem-ipsum
+subtitle: ''
 layout: page
 ---
 ## Lorem ipsum
