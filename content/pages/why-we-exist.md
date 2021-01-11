@@ -2,7 +2,7 @@
 title: Why We Exist
 subtitle: ''
 layout: page
-image: images/unique-kangaroo.png
+image: images/dredging-projects (4).jpeg
 ---
 **PERFORMANCE:**
 It’s simple: we take every one of our work seriously; we consider this as our reason for being, to the extent that it is … do it all or not it at all !
