@@ -1,5 +1,5 @@
 ---
-title: Our Equipments
+title: Our Equipment
 subtitle: ''
 layout: page
 ---
