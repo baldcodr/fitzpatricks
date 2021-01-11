@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Equipment
 subtitle: lorem-ipsum
 layout: page
 ---
