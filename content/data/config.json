@@ -19,7 +19,7 @@
                 "url": "/services"
             },
             {
-                "label": "Equipment",
+                "label": "Equipments",
                 "url": "/equipments",
                 "primary": false
             },
