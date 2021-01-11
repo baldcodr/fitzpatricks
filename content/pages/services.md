@@ -2,7 +2,7 @@
 title: What We Do
 subtitle: ''
 layout: page
-image: images/our-services.png
+image: images/WhatsApp Image 2020-12-09 at 10.28.57 AM (1).jpeg
 ---
 ##### DREDGING WORKS
 <img src="https://fitzpatrick.netlify.app/images/IMG-20160929-WA0008-min.jpg" alt="mission statement" width="100%"/>
