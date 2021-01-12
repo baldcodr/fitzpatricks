@@ -1,10 +1,10 @@
 ---
-title: Features
+title: Our Company
 sections:
   - section_id: features
     type: section_content
     background: gray
-    title: We are tested and trusted in the industry
+    title: Tested and Trusted
     content: >-
       With over 25 years experience in delivering top quality services in;
 
@@ -31,7 +31,7 @@ sections:
         primary: true
       - label: Our Partners
         url: /partners
-    image: images/fierce-wallaby.jpg
+    image: images/fitz-about.png
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
