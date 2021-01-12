@@ -1,6 +1,6 @@
 ---
 title: Land Reclamation benefits in Nigeria
-subtitle: 'Apparently, there are 5 Service Skills that Every Employee Needs'
+subtitle: ''
 author: content/data/authors/john-doe.yaml
 excerpt: >-
   The reason for land reclamation and one of its advantages is the availability
