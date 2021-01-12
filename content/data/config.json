@@ -61,7 +61,7 @@
             },
             {
                 "label": "Our Company",
-                "url": "lorem-ipsum",
+                "url": "feature",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
