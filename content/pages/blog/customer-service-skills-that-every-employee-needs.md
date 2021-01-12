@@ -1,5 +1,5 @@
 ---
-title: Land Reclamation benefits in Nigeria
+title: Land Reclamation in Nigeria
 subtitle: ''
 author: content/data/authors/john-doe.yaml
 excerpt: >-
