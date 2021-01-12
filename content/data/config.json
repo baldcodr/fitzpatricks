@@ -61,7 +61,7 @@
             },
             {
                 "label": "Our Company",
-                "url": "feature",
+                "url": "features",
                 "primary": false,
                 "new_window": true,
                 "type": "action"
