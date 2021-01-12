@@ -31,7 +31,7 @@ sections:
         primary: true
       - label: Our Partners
         url: /partners
-    image: images/fierce-wallaby.jpg
+    image: images/fitz-about.png
   - section_id: call-to-action
     type: section_cta
     title: Pushing The Boundaries Of What’s Possible.
