@@ -31,7 +31,7 @@ sections:
         actions:
           - label: Learn More
             url: /services
-        image: images/tractor1.png
+        image: images/3096764_1463645091153_1206x873.jpg
       - title: Dredging Works
         content: >-
           We are a one stop vehicle for distinct projects that leverage on the
