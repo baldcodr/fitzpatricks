@@ -3,16 +3,22 @@ title: Contact
 sections:
   - title: Contact details
     section_id: contact-details
-    content: |-
-      **Address**  
+    content: |
+      **Address**\
       Caribbean Lake City, Opposite
       Fara-Park Estate, Lekki, Lagos.
 
-      **Phone**  
-      +2348033347051  
-      +2348181583228
+      **Phone**
 
-      **Email**  
+      \+2348033347051
+
+      \+2348181583228
+
+      \+2349064513442
+
+
+
+      **Email**\
       info@fitzpatricks.ng
     background: white
     actions: []
