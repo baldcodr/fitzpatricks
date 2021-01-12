@@ -60,7 +60,7 @@
                 "url": "/contact"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Our Company",
                 "url": "lorem-ipsum",
                 "primary": false,
                 "new_window": true,
