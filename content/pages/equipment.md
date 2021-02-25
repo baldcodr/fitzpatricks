@@ -1,9 +1,10 @@
 ---
 title: Our Equipment
 subtitle: >-
-    Equiped with the latest tools for the job,
-    we are always ready to meet your dredging needs.
+  Equiped with the latest tools for the job, we are always ready to meet your
+  dredging needs.
 layout: page
+image: images/equipment-1.jpeg
 ---
 <div align="center">
 <div>
