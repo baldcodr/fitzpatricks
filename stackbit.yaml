@@ -61,7 +61,7 @@ models:
         label: Footer Configuration
         models:
           - footer
-            - type: string
+      - type: string
         name: domain
         label: Domain
     file: config.json
