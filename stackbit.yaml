@@ -64,6 +64,7 @@ models:
       - type: string
         name: domain
         label: Domain
+        models:
     file: config.json
   header:
     type: object
