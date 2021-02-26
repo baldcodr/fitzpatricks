@@ -80,7 +80,7 @@ models:
         label: Enable Navigation Menu
         description: Display the navigation menu bar in the header
         default: true
-              - type: string
+      - type: string
         name: domain
         label: Domain
         models:
