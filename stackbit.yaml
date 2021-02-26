@@ -83,7 +83,6 @@ models:
       - type: string
         name: domain
         label: Domain
-          - 
       - type: list
         name: nav_links
         label: Navigation Menu Links
