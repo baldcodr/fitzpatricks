@@ -61,6 +61,7 @@ models:
         label: Footer Configuration
         models:
           - footer
+
     file: config.json
   header:
     type: object
@@ -80,9 +81,6 @@ models:
         label: Enable Navigation Menu
         description: Display the navigation menu bar in the header
         default: true
-
-        
-      
       - type: list
         name: nav_links
         label: Navigation Menu Links
